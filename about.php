@@ -270,7 +270,6 @@ Experience the art of photography with Lustre Yarn Studios—where your ideas be
             <span>Top</span>
         </div>
     </div>
-
     <!-- Aside Bar -->
     <aside id="ashade-aside">
        	<a href="#" class="ashade-aside-close">Close Sidebar</a>

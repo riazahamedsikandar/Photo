@@ -111,13 +111,7 @@
                             </ul>
                         </li>
                         <li class="menu-item-has-children">
-                            <a href="#">Blog</a>
-                            <ul class="sub-menu">
-                                <li><a href="about.html">About Me</a></li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="testimonials.html">Testimonials</a></li>
-								<li><a href="typography.html">Typography</a></li>
-                            </ul>
+                            <a href="blog.php">Blog</a>
                         </li>
                         <li><a href="contacts.html">Contacts</a></li>
                         <li>
