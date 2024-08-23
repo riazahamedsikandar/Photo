@@ -3270,13 +3270,8 @@ quote {
 h2 {
     margin-top: 30px;
     font-size: 1.5em;
-    color: #ffcc00;
-    animation: slideInRight 1s ease-in-out;
-}
-
-.blog-content h2 span {
-    font-style: italic;
     color: #ffffff;
+    animation: slideInRight 1s ease-in-out;
 }
 
 .blog-content h2 span {

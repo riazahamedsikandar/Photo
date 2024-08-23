@@ -34,7 +34,7 @@
                 <p class="update">Last Updated: 23- Oct- 2024</p>
             </header>
             <div class="main-image">
-                <img src="./insta page photos/pen.jpg" alt="Couple in Snowy Mountains">
+                <img src="img/pen.jpg" alt="Pen">
             </div>
             <div class="blog-content">
                 <quote>
@@ -43,51 +43,57 @@
                 <p>Capture the essence of your brand with stunning product photography. Our expert team uses high-quality equipment and techniques to showcase your products in the best light. From sleek studio shots to dynamic lifestyle images, we deliver
                     visuals that highlight your product's features and appeal to your target audience. Elevate your marketing with crisp, detailed images that drive engagement and sales.</p>
 
-                <h2>Interior<span>Photography</span>:</h2>
+                <h2>Interior Photography :</h2>
                 <div class="content-image">
-                    <img src="./insta page photos/studio.jpg" alt="Andaman Islands">
+                    <img src="img/jwel.jpg" alt="Product">
                 </div>
                 <p>Transform your spaces into captivating visuals with our interior photography services. We expertly highlight design, ambiance, and detail to create stunning images that resonate. Whether for real estate, design portfolios, or marketing,
                     our photography captures the essence and elegance of your interiors, making every shot a true reflection of your space's unique character.
-
                 </p>
 
+                                <h2>Interior Photography :</h2>
+                <div class="content-image">
+                    <img src="img/avatar 2.jpg" alt="Avatar">
+                </div>
+                <p>Transform your spaces into captivating visuals with our interior photography services. We expertly highlight design, ambiance, and detail to create stunning images that resonate. Whether for real estate, design portfolios, or marketing,
+                    our photography captures the essence and elegance of your interiors, making every shot a true reflection of your space's unique character.
+                </p>
 
             </div>
         </article>
         <aside class="sidebar">
             <h2 class="recent-posts-heading">Recent Posts</h2>
             <section class="recent-posts">
-                <a href="journey-to-thar-desert.html" class="post-item">
-                    <img src="./insta page photos/interior.jpg" alt="Thar Desert">
+                <a href="#" class="post-item">
+                    <img src="img/inrter.jpg" alt="Interior">
                     <div class="post-content">
                         <span>Apr 09, 2024</span>
                         <p>Interior works</p>
                     </div>
                 </a>
-                <a href="international-trips.html" class="post-item">
-                    <img src="./insta page photos/chain.jpg" alt="International Trips">
+                <a href= "#" class="post-item">
+                    <img src="img/chain.jpg" alt="International Trips">
                     <div class="post-content">
                         <span>Oct 10, 2023</span>
                         <p>Product photography</p>
                     </div>
                 </a>
-                <a href="corporate-trips.html" class="post-item">
-                    <img src="./insta page photos/379462645_688179106542535_3767727568082184121_n.heic.jpg" alt="Corporate Trips">
+                <a href="#" class="post-item">
+                    <img src="img/interior.jpg" alt="Interior">
                     <div class="post-content">
                         <span>Jul 31, 2023</span>
                         <p>Exterio works</p>
                     </div>
                 </a>
                 <a href="andaman-islands.html" class="post-item">
-                    <img src="./insta page photos/448556900_439902535642543_141202233014211560_n.heic.jpg" alt="Andaman Islands">
+                    <img src="img/avatar 2.jpg" alt="Avatar">
                     <div class="post-content">
                         <span>Jul 31, 2023</span>
                         <p>Comercial ads</p>
                     </div>
                 </a>
                 <a href="summer-holidays.html" class="post-item">
-                    <img src="./insta page photos/391511295_826710569189607_109006725595592597_n.heic.jpg" alt="Summer Holidays">
+                    <img src="img/avatar.jpg" alt="Summer Holidays">
                     <div class="post-content">
                         <span>Feb 08, 2022</span>
                         <p>Wedding Photography</p>
@@ -100,6 +106,7 @@
             </div>
         </main>
 		
+	<?php include 'includes/footer.php' ?>
 
     <!-- UI Elements -->
     <div class="ashade-menu-overlay"></div>
