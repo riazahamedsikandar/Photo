@@ -52,7 +52,7 @@
 									<div class="ashade-service-card__content">
 										<p>If you are a beginner model and you do not have portfolio of enough quality so this service is for you. Together we can create you professional models portfolio. The work takes place both in the studio and in nature, depending on the wishes of the client.</p>
 										<div class="align-right">
-											<a href="gallery-ribbon-vertical.html" class="ashade-learn-more">Explore Works</a>
+											<a href="blog1.php" class="ashade-learn-more">Explore Works</a>
 										</div>
 									</div>
 								</div><!-- .ashade-service-card -->
@@ -71,7 +71,7 @@
 									<div class="ashade-service-card__content">
 										<p>Marriage is one of the most important and emotional events in our life. Therefore, choosing a photographer for this purpose should be approached very responsibly. I have a lot of experience to working on weddings and don't miss anything.</p>
 										<div class="align-right">
-											<a href="gallery-slider-parallax.html" class="ashade-learn-more">Explore Works</a>
+											<a href="blog1.php" class="ashade-learn-more">Explore Works</a>
 										</div>
 									</div>
 								</div><!-- .ashade-service-card -->
